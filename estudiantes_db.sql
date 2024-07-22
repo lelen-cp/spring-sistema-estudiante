@@ -1,0 +1,1 @@
+SELECT * FROM estudiantes_db.estudiante;
